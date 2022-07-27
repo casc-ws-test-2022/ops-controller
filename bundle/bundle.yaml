@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "2"
+version: "2.1"
 id: "casc-ws-test-2022-ops-controller"
 description: "CloudBees CI configuration bundle for the casc-ws-test-2022 ops-controller Controller"
 availabilityPattern: "cloudbees-ci-casc-workshop/casc-ws-test-2022/ops-controller"
